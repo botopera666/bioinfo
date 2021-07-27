@@ -1,3 +1,3 @@
 #~/user/bin/python
 
-print("Hello Bioinfomatics")
+print("python edited")
